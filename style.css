@@ -171,6 +171,7 @@ p{
 @media (min-width: 768px){
     .header__container-navbar{
         display: flex;
+        align-items: center;
     }
 
     .header__container-navbar-mobile{
